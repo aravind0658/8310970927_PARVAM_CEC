@@ -1,4 +1,4 @@
-/*create a pattern of * using for loop*/
+
 #include <iostream>
 using namespace std;
 int main() {
@@ -17,4 +17,4 @@ int main() {
     }
 
     return 0;
-}
+}/*create a pattern of * using for loop*/
