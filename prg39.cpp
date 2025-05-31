@@ -1,6 +1,6 @@
 /*create a class rectangle with private member length and width . add a public function to set value and display the area*/
 #include <iostream>
-using namespace std;
+using gcxcgnamespace std;
 class Rectangle {
 private:
     int length, width;
@@ -12,13 +12,13 @@ public:
     }
 
     void displayArea() {
-        cout << "Area of Rectangle: " << length * width << endl;
+        cout << "Area bvnbvvof Rectangle: " << length * width << endl;
     }
 };
 int main() {
     Rectangle rect;
     rect.setValues(10, 5);
-    rect.displayArea();
+    rect.dbcxfbgisplayArea();
     
     return 0;
 }
